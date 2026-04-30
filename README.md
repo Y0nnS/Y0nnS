@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently working on:** Developing scalable software architectures and integrating Machine Learning models into production environments.
+- 🔭 **Currently working on:** Developing scalable software architectures.
 - 🌱 **Currently learning:** Advanced Large Language Models (LLMs), Deep Learning architectures, MLOps, and systems programming.
 - 👯 **Looking to collaborate on:** Open-source AI initiatives, high-performance computing projects, and challenging algorithmic problems.
 - 💬 **Ask me about:** Python, Rust, AI/ML Pipelines, Web Development, and System Design.
