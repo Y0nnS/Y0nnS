@@ -17,63 +17,76 @@
 ### 🚀 About Me
 
 - 🔭 **Currently working on:** Developing scalable software architectures and integrating Machine Learning models into production environments.
-- 🌱 **Currently learning:** Advanced Large Language Models (LLMs), Deep Learning architectures, and MLOps.
-- 👯 **Looking to collaborate on:** Open-source AI initiatives, innovative tech startups, and challenging algorithmic problems.
-- 👨‍💻 **All of my projects are available at:** https://phy0n.my.id
-- 💬 **Ask me about:** Python, AI/ML Pipelines, Web Development (NextJS/React), and System Design.
+- 🌱 **Currently learning:** Advanced Large Language Models (LLMs), Deep Learning architectures, MLOps, and systems programming.
+- 👯 **Looking to collaborate on:** Open-source AI initiatives, high-performance computing projects, and challenging algorithmic problems.
+- 💬 **Ask me about:** Python, Rust, AI/ML Pipelines, Web Development, and System Design.
 - 📫 **How to reach me:** **phymee@proton.me**
+- 👨‍💻 **Portfolio & Projects:** **[phy0n.my.id](https://phy0n.my.id)**
 
 ---
 
-### 💻 Tech Stack & Tools
-
-To build full-stack intelligent systems, I leverage a diverse set of technologies:
+### 💻 Hard Skills & Tech Stack
 
 <div align="center">
 
-  **Artificial Intelligence & Machine Learning** <br>
+  **Programming Languages** <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+
+  <br><br>
+  **Artificial Intelligence & Machine Learning** <br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 
   <br><br>
-  **Software Engineering & Backend** <br>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-
-  <br><br>
-  **Frontend & Web Development** <br>
+  **Web Development (Frontend & Backend)** <br>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
   <br><br>
   **DevOps, Tools & Architecture** <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 🧠 Soft Skills
+
+Building great software isn't just about code. Here are the core competencies I bring to the table:
+
+*   **Analytical Thinking & Problem Solving:** Breaking down complex architectural or algorithmic problems into manageable, optimized solutions.
+*   **Adaptability & Continuous Learning:** Thriving in fast-paced environments and rapidly mastering new technologies, frameworks, and AI paradigms.
+*   **Systems Design Mindset:** Architecting solutions with scalability, security, and long-term maintainability in mind.
+*   **Effective Communication:** Translating complex technical data and ML concepts into actionable insights for cross-functional teams and stakeholders.
+*   **Attention to Detail:** Ensuring high-quality output, from minimalist UI/UX implementations to precision in model training and hyperparameter tuning.
+
+---
+
+### 🌐 Let's Connect
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" width="48%" />
-
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2" alt="Top Languages" width="48%" />
-
+  <a href="https://phy0n.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:phymee@proton.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br>
