@@ -25,7 +25,7 @@
 
 ---
 
-### 💻 Hard Skills & Tech Stack
+### 💻 Tech Stack
 
 <div align="center">
 
@@ -63,18 +63,6 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
 
 </div>
-
----
-
-### 🧠 Soft Skills
-
-Building great software isn't just about code. Here are the core competencies I bring to the table:
-
-*   **Analytical Thinking & Problem Solving:** Breaking down complex architectural or algorithmic problems into manageable, optimized solutions.
-*   **Adaptability & Continuous Learning:** Thriving in fast-paced environments and rapidly mastering new technologies, frameworks, and AI paradigms.
-*   **Systems Design Mindset:** Architecting solutions with scalability, security, and long-term maintainability in mind.
-*   **Effective Communication:** Translating complex technical data and ML concepts into actionable insights for cross-functional teams and stakeholders.
-*   **Attention to Detail:** Ensuring high-quality output, from minimalist UI/UX implementations to precision in model training and hyperparameter tuning.
 
 ---
 
