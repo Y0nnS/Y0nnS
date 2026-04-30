@@ -25,44 +25,38 @@
 
 ---
 
-### 💻 Tech Stack
+### Languages and tools
+A focused set of technologies organized by how I use them across the workflow.
 
-<div align="center">
+<br>
 
-  **Programming Languages** <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+#### L A N G U A G E S
+<sub>Core programming languages</sub> <br>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,c,cpp,rust" alt="Languages" />
 
-  <br><br>
-  **Artificial Intelligence & Machine Learning** <br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<br>
 
-  <br><br>
-  **Web Development (Frontend & Backend)** <br>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+#### T E C H  S T A C K
+<sub>Frameworks, AI models & core libraries</sub> <br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,nodejs,fastapi,tensorflow,pytorch,opencv" alt="Tech Stack" />
 
-  <br><br>
-  **DevOps, Tools & Architecture** <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+<br>
 
-</div>
+#### D A T A B A S E
+<sub>Data layer services</sub> <br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases" />
+
+<br>
+
+#### D E V O P S
+<sub>Runtime & deployment</sub> <br>
+<img src="https://skillicons.dev/icons?i=docker,linux,gcp" alt="DevOps" />
+
+<br>
+
+#### T O O L  S T A C K
+<sub>Daily workflow tools</sub> <br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
 
 ---
 
