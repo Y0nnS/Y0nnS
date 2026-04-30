@@ -14,14 +14,14 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 **Currently working on:** Developing scalable software architectures.
-- 🌱 **Currently learning:** Advanced Large Language Models (LLMs), Deep Learning architectures, MLOps, and systems programming.
-- 👯 **Looking to collaborate on:** Open-source AI initiatives, high-performance computing projects, and challenging algorithmic problems.
-- 💬 **Ask me about:** Python, Rust, AI/ML Pipelines, Web Development, and System Design.
-- 📫 **How to reach me:** **phymee@proton.me**
-- 👨‍💻 **Portfolio & Projects:** **[phy0n.my.id](https://phy0n.my.id)**
+- **Currently working on:** Developing scalable software architectures.
+- **Currently learning:** Advanced Large Language Models (LLMs), Deep Learning architectures, MLOps, and systems programming.
+- **Looking to collaborate on:** Open-source AI initiatives, high-performance computing projects, and challenging algorithmic problems.
+- **Ask me about:** Python, Rust, AI/ML Pipelines, Web Development, and System Design.
+- **How to reach me:** **phymee@proton.me**
+- **Portfolio & Projects:** **[phy0n.my.id](https://phy0n.my.id)**
 
 ---
 
@@ -60,7 +60,7 @@ A focused set of technologies organized by how I use them across the workflow.
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
 <div align="center">
   <a href="https://phy0n.my.id">
