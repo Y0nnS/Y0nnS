@@ -37,5 +37,5 @@
 <br>
 
 <div align="center">
-  <i>"Coding should be fun, not stressful, innit?" - Cory House</i>
+  <i>"Coding should be fun, not stressful, innit?" - phy0n</i>
 </div>
