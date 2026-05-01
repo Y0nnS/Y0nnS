@@ -23,43 +23,6 @@
 - **How to reach me:** **phymee@proton.me**
 - **Portfolio & Projects:** **[phy0n.my.id](https://phy0n.my.id)**
 
----
-
-### Languages and tools
-A focused set of technologies organized by how I use them across the workflow.
-
-<br>
-
-#### L A N G U A G E S
-<sub>Core programming languages</sub> <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,c,cpp,rust" alt="Languages" />
-
-<br>
-
-#### T E C H  S T A C K
-<sub>Frameworks, AI models & core libraries</sub> <br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,nodejs,fastapi,tensorflow,pytorch,opencv" alt="Tech Stack" />
-
-<br>
-
-#### D A T A B A S E
-<sub>Data layer services</sub> <br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases" />
-
-<br>
-
-#### D E V O P S
-<sub>Runtime & deployment</sub> <br>
-<img src="https://skillicons.dev/icons?i=docker,linux,gcp" alt="DevOps" />
-
-<br>
-
-#### T O O L  S T A C K
-<sub>Daily workflow tools</sub> <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
-
----
-
 ### Let's Connect
 
 <div align="center">
